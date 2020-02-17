@@ -8,7 +8,7 @@
     <body>
         <div id="wapper">
             <div id="header">
-                <h1>タスクリスト</h1>
+                <h1>タスクリストのアプリケーション</h1>
             </div>
             <div id="content">
                 ${param.content}
